@@ -1,7 +1,7 @@
 ### Authors
 ---
 
-##### Romina Batista<sup>1</sup><sup>,</sup><sup>2</sup>, Tobias Hoffmann<sup>2</sup>, Urban Olsson<sup>2</sup>, Alexandre Antonelli<sup>2</sup>, Camila Ribas<sup>1</sup>
+##### Romina Batista<sup>1</sup><sup>,</sup><sup>2</sup>, Tobias Hoffmann<sup>2</sup>, Urban Olsson<sup>2</sup>,  Camila Ribas<sup>1</sup>, Alexandre Antonelli<sup>2</sup>
 ---
 
 <sup>1</sup>INPA: Instituto Nacional de Pesquisas da Amazônia ([INPA](http://portal.inpa.gov.br/)), PPG-GCBEV - Programa de Pós Graduação em Genética, Conservação e Biologia Evolutiva ([GCBEV](http://gcbev.inpa.gov.br/))
