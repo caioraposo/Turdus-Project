@@ -74,10 +74,9 @@ We would like to thank the many institutions that provided tissue loans for this
 
 *	Göteborgs Naturhistoriska Museum, Gothenbur, SE ([GNM-Av.ex.](http://www.gnm.se/)).
 
-We also would like to thank [Mats Töpel](http://matstopel.se/), for his support with bioinformatics computer cluster [Albiorix](http://albiorix.bioenv.gu.se/) at the Department of Biological and Environmental Sciences, University of Gothenburg and his constructive advice that greatly helped to improve this repository and data process.
-
 * The authors would like to acknowledge support from [Science for Life Laboratory](https://www.scilifelab.se/), the National Genomics Infrastructure, [NGI](https://www.scilifelab.se/platforms/ngi/), and [Uppmax](https://www.scilifelab.se/facilities/uppnex/) for providing assistance in massive parallel sequencing and computational infrastructure.
 
+We also would like to thank [Mats Töpel](http://matstopel.se/), for his support with bioinformatics computer cluster [Albiorix](http://albiorix.bioenv.gu.se/) at the Department of Biological and Environmental Sciences, University of Gothenburg and his constructive advice that greatly helped to improve this repository and data process.
 ---
 
 ### Notes :pencil2: 
