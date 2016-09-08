@@ -84,8 +84,7 @@ We would like to thank the many institutions that provided tissue loans for this
 
 :information_source: Origin of all data 
 
-1.	[SNP&SEQ Technology Platform National Genomics Infrastructure (NGI), Science for Life Laboratory - Uppsala University](http://molmed.medsci.uu.se/SNP+SEQ+Technology+Platform/?languageId=1) 
-
+[SNP&SEQ Technology Platform National Genomics Infrastructure (NGI), Science for Life Laboratory - Uppsala University](http://molmed.medsci.uu.se/SNP+SEQ+Technology+Platform/?languageId=1) 
 This sequence was done by SciLifeLab and we received on 2016-08-19
 
 *	Data from 1 MiSeq run (Capture-Library-A) in the sequencing project "Romina Thrushes A and B" (PD-1096) available at Uppmax in the folders: `/proj/b2015096/INBOX/160812_M00485_0289_000000000-ARW1N`
@@ -94,7 +93,7 @@ This sequence was done by SciLifeLab and we received on 2016-08-22
 
 * 	Data from 1 MiSeq run (Capture-Library-B) in the sequencing project "Romina Thrushes A and B" (PD-1096) available at Uppmax in the folders: `/proj/b2015096/INBOX/160816_M00485_0290_000000000-ARVCN`
 
-2.	[National Genomics Infrastructure, Stockholm Node, Science for Life Laboratory](https://ngisweden.scilifelab.se/)
+[National Genomics Infrastructure, Stockholm Node, Science for Life Laboratory](https://ngisweden.scilifelab.se/)
  
 This sequence was done by SciLifeLab and we received on 2016-08-08
 
