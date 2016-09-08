@@ -99,18 +99,21 @@ This sequence was done by SciLifeLab and we received on 2016-08-22
 This sequence was done by SciLifeLab and we received on 2016-08-08
 
 *  Data from 1 MiSeq run (Capture-Library-C) in the sequencing project "A.Antonelli_16_06 (Romina Thrushes C TOEPADS)" available at Uppmax in the folders: `/proj/b2015096/INBOX/A.Antonelli_16_06`
+
 ---
 
-:information_source: The data was dowloaded on 24th August 2016 from [UPPMAX](http://www.uppmax.uu.se/) A.Antonelli account to [Albiorix](http://albiorix.bioenv.gu.se/). 
+:information_source: The data was dowloaded on 24th August 2016 from [UPPMAX](http://www.uppmax.uu.se/) A.Antonelli account to [Albiorix](http://albiorix.bioenv.gu.se/)
+
 ---
 
 :+1: Romina Batista checked all .md5 files on Albiorix, 30/08/2016.
+
 ---
 
+:cloud: Data stored (30/08/2016) on node0 `/state/partition4/romina/rawdata_SciLifeba/library*` on [Albioix](http://albiorix.bioenv.gu.se/)
 
-
-:cloud: Data stored (30/08/2016) on node0 `/state/partition4/romina/rawdata_SciLifeba/library*` on [Albioix](http://albiorix.bioenv.gu.se/).
 ---
 
-:on: Analyses running in node0 `/state/partition4/romina/rawdata_SciLifeba/library*` on [Albioix](http://albiorix.bioenv.gu.se/).
+:on: Analyses running in node0 `/state/partition4/romina/rawdata_SciLifeba/library*` on [Albioix](http://albiorix.bioenv.gu.se/)
 
+---
