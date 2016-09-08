@@ -76,7 +76,7 @@ We would like to thank the many institutions that provided tissue loans for this
 
 * The authors would like to acknowledge support from [Science for Life Laboratory](https://www.scilifelab.se/), the National Genomics Infrastructure, [NGI](https://www.scilifelab.se/platforms/ngi/), and [Uppmax](https://www.scilifelab.se/facilities/uppnex/) for providing assistance in massive parallel sequencing and computational infrastructure.
 
-We also would like to thank [Mats Töpel](http://matstopel.se/), for his support with bioinformatics computer cluster [Albiorix](http://albiorix.bioenv.gu.se/) at the Department of Biological and Environmental Sciences, University of Gothenburg and his constructive advice that greatly helped to improve this repository and data process.
+* We also would like to thank [Mats Töpel](http://matstopel.se/), for his support with bioinformatics computer cluster [Albiorix](http://albiorix.bioenv.gu.se/) at the Department of Biological and Environmental Sciences, University of Gothenburg and his constructive advice that greatly helped to improve this repository and data process.
 ---
 
 ### Notes :pencil2: 
@@ -100,10 +100,13 @@ This sequence was done by SciLifeLab and we received on 2016-08-08
 *  Data from 1 MiSeq run (Capture-Library-C) in the sequencing project "A.Antonelli_16_06 (Romina Thrushes C TOEPADS)" available at Uppmax in the folders: `/proj/b2015096/INBOX/A.Antonelli_16_06`
 
 :information_source: The data was dowloaded on 24th August 2016 from [UPPMAX](http://www.uppmax.uu.se/) A.Antonelli account to [Albiorix](http://albiorix.bioenv.gu.se/). 
+---
 
 :+1: Romina Batista checked all .md5 files on Albiorix, 30/08/2016.
+---
 
 :cloud: Data stored (30/08/2016) on node0 `/state/partition4/romina/rawdata_SciLifeba/library*` on [Albioix](http://albiorix.bioenv.gu.se/).
+---
 
 :on: Analyses running in node0 `/state/partition4/romina/rawdata_SciLifeba/library*` on [Albioix](http://albiorix.bioenv.gu.se/).
 
