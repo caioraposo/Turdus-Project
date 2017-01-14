@@ -111,6 +111,8 @@ This sequence was done by SciLifeLab and we received on 2016-08-08
 
 :cloud: Data stored (30/08/2016) on `/nobackup/data14/romina/turdus-targetcapture/data/Facilities/SciLifeLab/library*` on [Albioix](http://albiorix.bioenv.gu.se/)
 
+:cloud: Data stored (14/07/2017) on `.../.../.../raw_data_SciLifeLab/library*` on personal [Dropbox](https://www.dropbox.com)
+
 ---
 
 :on: Analyses running in node0 `/state/partition4/romina/rawdata_SciLifeLab/library*` on [Albioix](http://albiorix.bioenv.gu.se/)
