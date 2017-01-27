@@ -23,7 +23,7 @@ The genus *Turdus* (Aves, Turdidae) consists of 71 currently recognized species 
 
 The application of Ultraconserved Elements ([UCEs](http://ultraconserved.org/)) is currently one of the most popular methods for phylogenomics using reduced representation genomic datasets. UCEs are highly conserved across distantly related taxa and have variable flanking regions. These characteristics make UCEs useful genetic markers for both deep and shallow evolutionary timescales, and they have successfully been used to resolve challenging phylogenetic relationships among many taxa (eg. birds, turtles, fishes). 
 
-Here, we sequenced ~2,500 UCEs Loci and 150 loci well known and used in previous phylogenetic studies for birds, for 120 individuals of 47/71 species of the genus *Turdus* sampled across its entire distribution (Americas, Eurasia and African Continents) to reconstructe a robust phylogeny of the genus using a genomic data set. 
+Here, we sequenced ~2,500 UCEs Loci and 99 loci well known and used in previous phylogenetic studies for birds, for 108 individuals of 47/71 species of the genus *Turdus* sampled across its entire distribution (Americas, Eurasia and African Continents), and 7 individuals as outgroup, to reconstructe a robust phylogeny of the genus using a genomic data set. 
 
 ---
 
