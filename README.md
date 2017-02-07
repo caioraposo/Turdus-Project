@@ -58,6 +58,8 @@ Funding for this project came from:
 
 2. The Antonelli Lab (funding provided to Alexandre Antonelli from the European Research Council under the European Union’s Seventh Framework Programme [FP/2007-2013, ERC Grant Agreement n. 331024], the Wallenberg Foundation for a  Wallenberg Academy Fellowship, and the Swedish Research Council [2015-04857]).  
 
+3. US National Science Foundation and Fundação de Amparo à Pesquisa do Estado de São Paulo - FAPESP: 2012/50260-6
+
 ---
 
 ### Acknowledgements
@@ -81,7 +83,7 @@ We would like to thank the many institutions that provided tissue loans for this
 
 *	Göteborgs Naturhistoriska Museum, Gothenbur, SE ([GNM-Av.ex.](http://www.gnm.se/)).
 
-* The authors would like to acknowledge support from [Science for Life Laboratory](https://www.scilifelab.se/), the National Genomics Infrastructure, [NGI](https://www.scilifelab.se/platforms/ngi/), and [Uppmax](https://www.scilifelab.se/facilities/uppnex/) for providing assistance in massive parallel sequencing and computational infrastructure.
+* The authors acknowledge support from [Science for Life Laboratory](https://www.scilifelab.se/), the Knut and Alice Wallenberg Foundation, the National Genomics Infrastructure funded by the Swedish Research Council [NGI](https://www.scilifelab.se/platforms/ngi/), and Uppsala Multidisciplinary Center for Advanced Computational Science for assistance with massively parallel sequencing (alternatively genotyping) and access to [Uppmax](https://www.scilifelab.se/facilities/uppnex/) computational infrastructure. 
 
 * We also would like to thank [Mats Töpel](http://matstopel.se/), for his support with bioinformatics computer cluster [Albiorix](http://albiorix.bioenv.gu.se/) at the Department of Biological and Environmental Sciences, University of Gothenburg and his constructive advice that greatly helped to improve this repository and data process.
 
