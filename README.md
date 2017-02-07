@@ -8,7 +8,7 @@
 
 <sup>2</sup>GU: University of Gothenburg - Department of Biological and Environmental Sciences, [The Antonelli Lab](http://www.antonelli-lab.net/), [Antonelli-Lab Github](https://github.com/AntonelliLab)
 
-![Image](images/Phylogeny_thrushes001.png)               ![Image](images/Phylogeny_thrushes002.png)
+![Image](images/Phylogenomics-thrushes001.png)               ![Image](images/Phylogenomics-thrushes002.png)
 
 ---
 
@@ -19,11 +19,13 @@
 
 The genus *Turdus* (Aves, Turdidae) consists of 71 currently recognized species occurring throughout the world. Previous attempts to reconstruct phylogenies have proved extremely challenging due to short internal branches and low node support. South and Central America currently host the highest number of species (23 of 71) in the genus Turdus (Aves: Turdidae), and previous studies ([Nylander et al, 2008](http://sysbio.oxfordjournals.org/content/57/2/257.full.pdf+html)) suggest that this is due to an exceptional radiation following dispersal from Africa (see below, Figure 1, from [Nylander et al, 2008](http://sysbio.oxfordjournals.org/content/57/2/257.full.pdf+html)). Detailed biogeographic studies on a finer scale in South America are necessary to examine the evolutionary history for these taxa, as well as for revising current taxonomy. 
 
-![Image](images/Phylogeny_thrushes003.png)
+![Image](images/Phylogenomics-thrushes004.png)
 
 The application of Ultraconserved Elements ([UCEs](http://ultraconserved.org/)) is currently one of the most popular methods for phylogenomics using reduced representation genomic datasets. UCEs are highly conserved across distantly related taxa and have variable flanking regions. These characteristics make UCEs useful genetic markers for both deep and shallow evolutionary timescales, and they have successfully been used to resolve challenging phylogenetic relationships among many taxa (eg. birds, turtles, fishes). 
 
-Here, we sequenced ~2,500 UCEs Loci and 99 loci well known and used in previous phylogenetic studies for birds, for 108 individuals of 47/71 species of the genus *Turdus* sampled across its entire distribution (Americas, Eurasia and African Continents), and 7 individuals as outgroup, to reconstructe a robust phylogeny of the genus using a genomic data set. 
+Here, we sequenced ~2,500 UCEs Loci and 99 loci well known and used in previous phylogenetic studies for birds, for 116 individuals of 47/71 species of the genus *Turdus* sampled across its entire distribution (see Fig.2 Americas, Eurasia and African Continents), and 7 individuals as outgroup, to reconstructe a robust phylogeny of the genus using a genomic data set. 
+
+![Image](images/Phylogenomics-thrushes003.png)
 
 ---
 
