@@ -1,7 +1,7 @@
 ### Authors
 ---
 
-##### Romina Batista<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup><sup>,</sup><sup>4</sup> Tobias Hoffmann<sup>3</sup><sup>,</sup><sup>4</sup> Urban Olsson<sup>3</sup><sup>,</sup><sup>>4</sup>  Camila Ribas<sup>1,</sup><sup>,</sup><sup>2</sup>, Alexandre Antonelli<sup>3</sup><sup>,</sup><sup>4</sup>
+##### Romina Batista<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup><sup>,</sup><sup>4</sup>, Tobias Hoffmann<sup>3</sup><sup>,</sup><sup>4</sup>, Urban Olsson<sup>3</sup><sup>,</sup><sup>4</sup>,  Camila Ribas<sup>1</sup><sup>,</sup><sup>2</sup>, Alexandre Antonelli<sup>3</sup><sup>,</sup><sup>4</sup>
 ---
 
 <sup>1</sup>Programa de Pós-Graduação em Genética, Conservação e Biologia Evolutiva, PPG ([GCBEV](http://gcbev.inpa.gov.br/))  - Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
@@ -30,7 +30,7 @@ The genus *Turdus* (Aves, Turdidae) consists of 71 currently recognized species 
 
 The application of Ultraconserved Elements ([UCEs](http://ultraconserved.org/)) is currently one of the most popular methods for phylogenomics using reduced representation genomic datasets. UCEs are highly conserved across distantly related taxa and have variable flanking regions. These characteristics make UCEs useful genetic markers for both deep and shallow evolutionary timescales, and they have successfully been used to resolve challenging phylogenetic relationships among many taxa (eg. birds, turtles, fishes). 
 
-Here, we sequenced ~2,500 UCEs Loci and 99 loci well known and used in previous phylogenetic studies for birds, for 116 individuals of 47/71 species of the genus *Turdus* sampled across its entire distribution (see Fig.2 Americas, Eurasia and African Continents), and 7 individuals as outgroup, to reconstructe a robust phylogeny of the genus using a genomic data set. 
+Here, we sequenced ~2,500 UCEs Loci and 99 loci well known and used in previous phylogenetic studies for birds, for 116 individuals of 53/75 species currently recognized for the genus *Turdus* ([Nylander et al., 2008](http://sysbio.oxfordjournals.org/content/57/2/257.full.pdf+html), [Collar et al., 2016 - HB](http://www.hbw.com/)) sampled across its entire distribution (see Fig.2 Americas, Eurasia and African Continents), and 7 individuals as outgroup (*Oenanthae oenanthae*, *Catharus gracilirostris*, *Zoothera dumasi/joiceyi*, *Zoothera dauma*, *Cochoa viridis*, *Ridgwayi pinicola*, *Zoothera citrina albogularis*), to reconstructe a robust phylogeny of the genus using a genomic data set. 
 
 ![Image](images/Phylogenomics-thrushes003.png)
 
