@@ -61,7 +61,7 @@ Funding for this project came from:
 2. The Antonelli Lab (funding provided to Alexandre Antonelli from the European Research Council under the European Union’s Seventh Framework Programme [FP/2007-2013, ERC Grant Agreement n. 331024], the Wallenberg Foundation for a  Wallenberg Academy Fellowship, and the Swedish Research Council [2015-04857]).  
 
 3. NATIONAL SCIENCE FOUNDATION and FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE SÃO PAULO - FAPESP: 2012/50260-6, TITLE OF THE PROJECT "ASSEMBLY AND EVOLUTION OF THE AMAZONIAN BIOTA AND ITS ENVIRONMENT: AN INTEGRATED APPROACH". Principal Investigators (PI): [Lúcia Lohmann](http://lattes.cnpq.br/3340828165410597)
-(IB-USP) e [Joel Cracraft](http://www.amnh.org/our-research/staff-directory/joel-l.-cracraft/ (AMNH).
+(IB-USP) e [Joel Cracraft](http://www.amnh.org/our-research/staff-directory/joel-l.-cracraft/) (AMNH).
 
 ---
 
