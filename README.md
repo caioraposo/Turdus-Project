@@ -39,7 +39,7 @@ Here, we sequenced ~2,386 UCEs loci and 108 loci well known and used in previous
 ### Collaborator Roles
 ---
 
-*	The Project was conceived and designed by [Romina Batista](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4232850J7), [Urban Olsson](http://bioenv.gu.se/personal/Olsson_Urban), [Alexandre Antonelli](http://www.antonelli-lab.net/) and [Camila Ribas](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4760723U4). 
+*	The Project was conceived and designed by [Romina Batista](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4232850J7), [Urban Olsson](http://bioenv.gu.se/personal/Olsson_Urban), [Alexandre Aleixo](https://www.researchgate.net/profile/Alexandre_Aleixo), [Alexandre Antonelli](http://www.antonelli-lab.net/) and [Camila Ribas](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4760723U4). 
 
 *	Romina Batista took care of WetLab at [Gothenburg University](http://bioenv.gu.se): DNA extraction, Library Preparation, Target enrichment and preparation to sent to Sequencing using [Science for Life Laboratory -SciLifeLab](https://ngisweden.scilifelab.se/). 
 
