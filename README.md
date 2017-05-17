@@ -1,7 +1,7 @@
 ### Authors
 ---
 
-##### Romina Batista<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup><sup>,</sup><sup>4</sup>, Tobias Hoffmann<sup>3</sup><sup>,</sup><sup>4</sup>, Urban Olsson<sup>3</sup><sup>,</sup><sup>4</sup>, Alexandre Aleixo<sup>5</sup>, Camila Ribas<sup>1</sup><sup>,</sup><sup>2</sup>, Alexandre Antonelli<sup>3</sup><sup>,</sup><sup>4</sup>
+##### Romina Batista<sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup><sup>,</sup><sup>4</sup>, Tobias Hoffmann<sup>3</sup><sup>,</sup><sup>4</sup>, Urban Olsson<sup>3</sup><sup>,</sup><sup>4</sup>, Alexandre Aleixo<sup>5</sup>, Camila Ribas<sup>1</sup><sup>,</sup><sup>2</sup>,<sup>6</sup>, Alexandre Antonelli<sup>3</sup><sup>,</sup><sup>4</sup>,<sup>6</sup>
 ---
 
 <sup>1</sup>Programa de Pós-Graduação em Genética, Conservação e Biologia Evolutiva, PPG ([GCBEV](http://gcbev.inpa.gov.br/))  - Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
@@ -13,6 +13,8 @@
 <sup>4</sup>Gothenburg Global Biodiversity Centre, Box 461, SE-405 30 Gothenburg, Sweden
 
 <sup>5</sup>Coordenação de Zoologia, Museu Paraense Emílio Goeldi, Belém, Pará, Brazil
+
+<sup>6</sup>These are both senior authors on this study and have contributed equally.
 
 
 ![Image](images/Phylogenomics-thrushes001.png)               ![Image](images/Phylogenomics-thrushes002.png)
