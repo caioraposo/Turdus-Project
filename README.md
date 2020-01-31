@@ -8,15 +8,15 @@
 
 <sup>2</sup>Coordenação de Zoologia, Laboratório de Biologia Molecular, Museu Paraense Emílio Goeldi, CEP 66077-830 Belém, Pará, Brazil
 
-<sup>3</sup>Gothenburg Global Biodiversity Centre, Box 461, 405 30 Gothenburg, Sweden 
+<sup>3</sup>Gothenburg Global Biodiversity Centre, ([GGBC](https://ggbc.gu.se/)), Box 461, 405 30 Gothenburg, Sweden 
 
-<sup>4</sup>Department of Biological and Environmental Sciences, University of Gothenburg, SE-413 19 Gothenburg, Sweden
+<sup>4</sup>[Department of Biological and Environmental Sciences](https://bioenv.gu.se/english), University of Gothenburg, SE-413 19 Gothenburg, Sweden
 
-<sup>5</sup>Finnish Museum of Natural History, University of Helsinki, P.O. Box 17, 00014 Helsinki, Finland
+<sup>5</sup>[Finnish Museum of Natural History](https://researchportal.helsinki.fi/en/persons/alexandre-luis-padovan-aleixo), University of Helsinki, P.O. Box 17, 00014 Helsinki, Finland
 
 <sup>6</sup>Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
 
-<sup>7</sup>Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3AE, UK
+<sup>7</sup>Royal Botanic Gardens, ([Kew](https://www.kew.org/)), Richmond, Surrey TW9 3AE, UK
 
 <sup>†</sup>These are both senior authors on this study and have contributed equally.
 
@@ -28,7 +28,8 @@
 ### Overview
 ---
 
-... working in progress ... :soon:
+:newspaper: Published on *Proceedings of the Royal Society B* ([doi](http://dx.doi.org/10.1098/rspb.2019.2400)) 
+
 
 The genus *Turdus* (Aves, Turdidae) consists of 75 currently recognized species occurring throughout the world. Previous attempts to reconstruct phylogenies have proved extremely challenging due to short internal branches and low node support. South and Central America currently host the highest number of species (23 of 75) in the genus Turdus (Aves: Turdidae), and previous studies ([Nylander et al, 2008](http://sysbio.oxfordjournals.org/content/57/2/257.full.pdf+html)) suggest that this is due to an exceptional radiation following dispersal from Africa (see below, Figure 1, from [Nylander et al, 2008](http://sysbio.oxfordjournals.org/content/57/2/257.full.pdf+html)).  
 
@@ -98,6 +99,12 @@ We would like to thank the many institutions that provided tissue loans for this
 
 ---
 
+### Data accessibility
+--- 
+:link: All DNA sequence data produced in this project are made freely available at [NCBI](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA574741) Sequence Read Archive (SRA) under the BioProject accession PRJNA574741
+
+---
+
 ### Notes :pencil2: 
 
 :information_source: Origin of all data 
@@ -133,6 +140,6 @@ This sequence was done by SciLifeLab and we received on 2016-08-08
 
 ---
 
-:on: Analyses running in node0 `/state/partition4/romina/rawdata_SciLifeLab/library*` on [Albioix](http://albiorix.bioenv.gu.se/)
+:on: Analyses were running on node0 `/state/partition4/romina/rawdata_SciLifeLab/library*` on [Albioix](http://albiorix.bioenv.gu.se/)
 
 ---
