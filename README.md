@@ -6,15 +6,19 @@
 
 <sup>1</sup>Programa de Pós-Graduação em Genética, Conservação e Biologia Evolutiva, PPG ([GCBEV](http://gcbev.inpa.gov.br/))  - Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
 
-<sup>2</sup>Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
+<sup>2</sup>Coordenação de Zoologia, Laboratório de Biologia Molecular, Museu Paraense Emílio Goeldi, CEP 66077-830 Belém, Pará, Brazil
 
-<sup>3</sup>University of Gothenburg - Department of Biological and Environmental Sciences, [The Antonelli Lab](http://www.antonelli-lab.net/), [Antonelli-Lab Github](https://github.com/AntonelliLab), SE-413 19 Gothenburg, Sweden 
+<sup>3</sup>Gothenburg Global Biodiversity Centre, Box 461, 405 30 Gothenburg, Sweden 
 
-<sup>4</sup>Gothenburg Global Biodiversity Centre, Box 461, SE-405 30 Gothenburg, Sweden
+<sup>4</sup>Department of Biological and Environmental Sciences, University of Gothenburg, SE-413 19 Gothenburg, Sweden
 
-<sup>5</sup>Coordenação de Zoologia, Museu Paraense Emílio Goeldi, Belém, Pará, Brazil
+<sup>5</sup>Finnish Museum of Natural History, University of Helsinki, P.O. Box 17, 00014 Helsinki, Finland
 
-<sup>6</sup>These are both senior authors on this study and have contributed equally.
+<sup>6</sup>Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
+
+<sup>7</sup>Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3AE, UK
+
+<sup>†</sup>These are both senior authors on this study and have contributed equally.
 
 
 ![Image](images/Phylogenomics-thrushes001.png)               ![Image](images/Phylogenomics-thrushes002.png)
