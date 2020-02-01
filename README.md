@@ -1,7 +1,7 @@
 ### Authors
 ---
 
-##### Romina Batista</sup><sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup>, Urban Olsson<sup>3</sup><sup>,</sup><sup>4</sup>, Tobias Andermann<sup>3</sup><sup>,</sup><sup>4</sup>, Alexandre Aleixo<sup>5</sup>, Camila Ribas<sup>6</sup><sup>,</sup><sup>†</sup>, Alexandre Antonelli</sup><sup>3</sup><sup>,</sup><sup>4</sup><sup>,<sup>7</sup><sup>,</sup><sup>†</sup>
+##### Romina Batista</sup><sup>1</sup><sup>,</sup><sup>2</sup><sup>,</sup><sup>3</sup>, Urban Olsson<sup>3</sup><sup>,</sup><sup>4</sup>, Tobias Andermann<sup>3</sup><sup>,</sup><sup>4</sup>, Alexandre Aleixo<sup>5</sup>, Camila Ribas<sup>6</sup><sup>,</sup><sup>†</sup>, Alexandre Antonelli</sup><sup>3</sup><sup>,</sup><sup>4</sup><sup>,</sup><sup>7</sup><sup>,</sup><sup>†</sup><sup>
 ---
 
 <sup>1</sup>Programa de Pós-Graduação em Genética, Conservação e Biologia Evolutiva, PPG ([GCBEV](http://gcbev.inpa.gov.br/))  - Instituto Nacional de Pesquisas da Amazônia - INPA ([INPA](http://portal.inpa.gov.br/)) Campus II. Av. André Araújo, 2936 – Petrópolis - CEP 69067-375, Manaus, AM, Brazil
