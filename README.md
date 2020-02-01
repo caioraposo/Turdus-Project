@@ -25,11 +25,16 @@
 
 ---
 
-### Overview
+### Published on *Proceedings of the Royal Society B*
 ---
 
-:newspaper: Published on *Proceedings of the Royal Society B* ([doi](http://dx.doi.org/10.1098/rspb.2019.2400)) 
+:newspaper: [Phylogenomics and biogeography of the world’s thrushes (Aves, Turdus):
+new evidence for a more parsimonious evolutionary history](http://dx.doi.org/10.1098/rspb.2019.2400)
 
+---
+
+### Overview
+---
 
 The genus *Turdus* (Aves, Turdidae) consists of 75 currently recognized species occurring throughout the world. Previous attempts to reconstruct phylogenies have proved extremely challenging due to short internal branches and low node support. South and Central America currently host the highest number of species (23 of 75) in the genus Turdus (Aves: Turdidae), and previous studies ([Nylander et al, 2008](http://sysbio.oxfordjournals.org/content/57/2/257.full.pdf+html)) suggest that this is due to an exceptional radiation following dispersal from Africa (see below, Figure 1, from [Nylander et al, 2008](http://sysbio.oxfordjournals.org/content/57/2/257.full.pdf+html)).  
 
