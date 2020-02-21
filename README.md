@@ -25,7 +25,7 @@
 
 ---
 
-### Published on *Proceedings of the Royal Society B*
+### Published in *Proceedings of the Royal Society B*
 ---
 
 :newspaper: [Phylogenomics and biogeography of the world’s thrushes (Aves, Turdus):
