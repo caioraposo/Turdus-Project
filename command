@@ -1,0 +1,1 @@
+uceasy --input raw-fastq --output out --sheet uceasy-conf.csv --aligner mafft -i7 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC*ATCTCGTATGCCGTCTTCTGCTTG' -i5 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT' --probes probes/Tetrapods-UCE-2.5Kv1.fasta --percent 0.75
