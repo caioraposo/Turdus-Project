@@ -1,7 +1,9 @@
 import csv
 import re
 import subprocess
+import os
 
+out_dir = "raw-fastq"
 
 with open("samples-ncbi.csv", "r") as f:
     reader = csv.reader(f, delimiter=",")
@@ -23,12 +25,14 @@ for sample in samples:
     )
     print(out.stdout.decode("utf-8"))
 
-    out = subprocess.run(
-        f"mv {sample[1]}/*R1_001.fastq.gz raw-fastq/{sample[0]}_1.fastq.gz", shell=True, capture_output=True
-    )
-    out = subprocess.run(
-        f"mv {sample[1]}/*R2_001.fastq.gz raw-fastq/{sample[0]}_2.fastq.gz", shell=True, capture_output=True
-    )
+    files = os.listdir("SRA")
+    for fl in files:
+        if "SRR" in fl:
+            print(f"DEBUG: {fl} > {sample[0]}")
+            out = subprocess.run(
+                f"mv SRA/{fl}/*.sra SRA/{sample[0]}.sra", shell=True, capture_output=True
+            )
+            os.rmdir(fl)
     print(out.stdout.decode("utf-8"))
 
 
